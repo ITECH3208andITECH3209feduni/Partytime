@@ -36,7 +36,7 @@ class ProductSeeder extends Seeder
             [
                 'product_name' => "Glasses",
                 'product_cat' => 'Product',
-                'product_img' => 'http://newglass.in/wp-content/uploads/2016/06/41TWLrMyoWL.jpg',
+                'product_img' => 'https://www.ikea.com/au/en/images/products/dyrgrip-glass-clear-glass__0712419_pe728838_s5.jpg?f=s',
                 'product_price' => '20',
                 'product_size_or_qty' => 'Large',
                 'product_description' => 'Those Are From Russia with reallly good texture',
@@ -72,7 +72,7 @@ class ProductSeeder extends Seeder
             [
                 'product_name' => "Glasses",
                 'product_cat' => 'Product',
-                'product_img' => 'http://newglass.in/wp-content/uploads/2016/06/41TWLrMyoWL.jpg',
+                'product_img' => 'https://www.ikea.com/au/en/images/products/dyrgrip-glass-clear-glass__0712419_pe728838_s5.jpg?f=s',
                 'product_price' => '20',
                 'product_size_or_qty' => 'Large',
                 'product_description' => 'Those Are From Russia with reallly good texture',
@@ -108,7 +108,7 @@ class ProductSeeder extends Seeder
             [
                 'product_name' => "Glasses",
                 'product_cat' => 'Product',
-                'product_img' => 'http://newglass.in/wp-content/uploads/2016/06/41TWLrMyoWL.jpg',
+                'product_img' => 'https://www.ikea.com/au/en/images/products/dyrgrip-glass-clear-glass__0712419_pe728838_s5.jpg?f=s',
                 'product_price' => '20',
                 'product_size_or_qty' => 'Large',
                 'product_description' => 'Those Are From Russia with reallly good texture',
