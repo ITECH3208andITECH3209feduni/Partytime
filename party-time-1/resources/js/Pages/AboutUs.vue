@@ -47,7 +47,7 @@
 
       <!-- Page Content -->
       <main class="min-w-full">
-        <h1></h1>
+        <h1 class="text-center py-6 text-6xl font-bold">The Party Time is a website for the customer  for their event business and the customers will have a valuable and simple website to book and get services they desire and love.</h1>
       </main>
     </div>
   </div>
