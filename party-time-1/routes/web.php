@@ -451,7 +451,7 @@ Route::post('/superadmin/products/add', function (Request $request) {
     $id->product_size_or_qty = $request->product_size_or_qty;
     $id->product_description = $request->product_description;
     $id->product_stock = $request->product_stock;
-    $id->product_img = 'image url';
+    $id->product_img = $request->product_img;
     $id->save();
     return response(json_encode("Successfully Added Product"));
 })->middleware(['auth', 'verified'])->name('superadmin.product.add');
