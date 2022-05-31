@@ -55,9 +55,9 @@
 
         <BreezeInput
           id="product_img"
-          type="file"
+          type="text"
           class="mt-2 block w-full p-2"
-          placeholder="Product Image"
+          placeholder="Product Image URL"
           v-model="formData.product_img"
           required
         />
